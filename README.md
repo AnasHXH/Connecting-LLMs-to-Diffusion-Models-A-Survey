@@ -1,5 +1,6 @@
 # Connecting LLMs to Diffusion Models: a comprehensive survey on exploring the boundaries of Generative AI
-[![arXiv](https://img.)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2108.10257)
+
 Collection of recent Connecting LLMs to Diffusion Models. Questions and discussions are most welcome! Upcoming works will be updated on a regular basis, feel free to contact me to add... :thumbsup:
 ![Figure](chart.png)
 ## Papers and Codes
