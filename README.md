@@ -1,4 +1,4 @@
-# Connecting-LLMs-to-Diffusion-Models-A-Survey
+# Connecting LLMs to Diffusion Models: a comprehensive survey on exploring the boundaries of Generative AI
 Collection of recent Connecting LLMs to Diffusion Models. Questions and discussions are most welcome! Upcoming works will be updated on a regular basis, feel free to contact me to add... :thumbsup:
 ![Figure](chart.png)
 ## Papers and Codes
