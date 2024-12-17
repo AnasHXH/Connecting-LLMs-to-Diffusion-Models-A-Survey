@@ -63,5 +63,18 @@ Collection of recent Connecting LLMs to Diffusion Models. Questions and discussi
 * `Arxiv2023` CHATANYTHING: FACETIME CHAT WITH LLM-ENHANCED PERSONAS [[Paper]](https://arxiv.org/abs/2311.06772) [[Code]](https://github.com/zhoudaquan/ChatAnything)
 * `Arxiv2022` M-VADER: A Model for Diffusion with Multimodal Context [[Paper]](https://arxiv.org/abs/2212.02936)
 * `Arxiv2024` EasyGen: Easing Multimodal Generation with a Bidirectional Conditional Diffusion Model and LLMs [[Paper]](https://arxiv.org/abs/2310.08949) [[Code]](https://github.com/zxy556677/EasyGen)
+### Application  
+* `arXiv2024` Generative AI Meets Semantic Communication [[Paper]](https://arxiv.org/abs/2401.06803)  
+* `arXiv2025` Generative Agent-Based Modeling: Unveiling Social System Dynamics through Coupling Mechanistic Models with Generative AI [[Paper]](https://arxiv.org/abs/2309.11456) [[Code]](https://colab.research.google.com/drive/1mbsBEN1BGwfPiePib--X5t-mqluII_PZ?usp=sharing)  
+* `ICPR2023` Universal Detection and Source Attribution of Diffusion Model Generated Images with High Generalization and Robustness [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-45170-6_45)  
+* `arXiv2023` User-Centric Interactive AI for Distributed Diffusion Model-based AI-Generated Content [[Paper]](https://arxiv.org/abs/2311.11094)  
+* `arXiv2023` DUAW: Data-free Universal Adversarial Watermark against Stable Diffusion Customization [[Paper]](https://arxiv.org/abs/2308.09889)  
+* `arXiv2023` InstructCV: Instruction-Tuned Text-to-Image Diffusion Models as Vision Generalists [[Paper]](https://arxiv.org/abs/2310.00390) [[Code]](https://github.com/AlaaLab/InstructCV)  
+* `arXiv2023` X-IQE: eXplainable Image Quality Evaluation for Text-to-Image Generation with Visual Large Language Models [[Paper]](https://arxiv.org/abs/2305.10843) [[Code]](https://github.com/Schuture/Benchmarking-Awesome-Diffusion-Models)  
+* `CVPR2024` EvalCrafter: Benchmarking and Evaluating Large Video Generation Models [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_EvalCrafter_Benchmarking_and_Evaluating_Large_Video_Generation_Models_CVPR_2024_paper.html) [[Code]](https://github.com/EvalCrafter/EvalCrafter)  
+* `arXiv2023` DAVIDSONIAN SCENE GRAPH: Improving Reliability in Fine-Grained Evaluation for Text-to-Image Generation [[Paper]](https://arxiv.org/abs/2310.18235) [[Code]](https://github.com/j-min/DSG)  
+* `arXiv2024` Memory-Efficient Personalization using Quantized Diffusion Model [[Paper]](https://arxiv.org/abs/2401.04339)  
+* `CVPR2024` Towards Language-Driven Video Inpainting via Multimodal Large Language Models [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_Towards_Language-Driven_Video_Inpainting_via_Multimodal_Large_Language_Models_CVPR_2024_paper.html) [[Code]](https://github.com/jianzongwu/Language-Driven-Video-Inpainting)  
+* `OpenReview2023` Plan Diffuser: Grounding LLM Planners with Diffusion Models for Robotic Manipulation [[Paper]](https://openreview.net/forum?id=2a3sgm5YeX)  
 
 
