@@ -1,6 +1,6 @@
 # Connecting-LLMs-to-Diffusion-Models-A-Survey
 Collection of recent Connecting LLMs to Diffusion Models. Questions and discussions are most welcome! Upcoming works will be updated on a regular basis, feel free to contact me to add... :thumbsup:
-
+![Figure](chart.png)
 ## Papers and Codes
 
 ### Enhancing text-to-image  
